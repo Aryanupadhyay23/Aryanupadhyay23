@@ -1,16 +1,89 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate data scientist from India</h3>
-
-- 🌱 I’m currently learning **Data Science**
-
-- 📫 How to reach me **aryanupadhyay2301@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aryanupadhyay23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanupadhyay23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryanupadhyay23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanupadhyay23" height="30" width="40" /></a>
+<h1 align="center">Hey there, I'm Aryan Upadhyay 👋</h1>
+<p align="center">
+  🧠 Self-Taught ML Enthusiast | ✍️ Blogger | 💻 Aspiring Data Scientist  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+## 👤 About Me
+
+Hi, I’m **Aryan Upadhyay** — a self-taught machine learning enthusiast, blogger, and lifelong learner.
+
+My journey into data science didn’t begin in a classroom — it began with curiosity.
+
+From YouTube tutorials and Kaggle kernels to late-night debugging and endless "aha!" moments, I’ve carved my path through self-study, practice, and writing. Today, I’ve authored **50+ blogs** explaining machine learning in *simple and clear* terms. What started as personal notes now serves thousands of learners like me.
+
+🔍 I’m passionate about building intelligent solutions that:
+- Analyze data
+- Predict outcomes
+- Solve real-world problems
+
+🧠 And I believe in learning out loud — I share **everything** through blogs and open-source projects.
+
+---
+
+## 💼 Skill Set
+
+### 🔹 Machine Learning Expertise
+- Linear & Logistic Regression  
+- Decision Trees, Random Forest  
+- K-Nearest Neighbors (KNN), Naive Bayes  
+- Support Vector Machine (SVM), XGBoost  
+- K-Means, Hierarchical Clustering, DBSCAN, PCA  
+
+### 🔹 Programming & Query Languages
+- Python  
+- C / C++  
+- SQL / MySQL  
+
+### 🔹 Evaluation Techniques
+- Confusion Matrix, Precision, Recall, F1 Score  
+- ROC–AUC, Cross-Validation  
+
+### 🔹 Libraries & Frameworks
+- Scikit-learn, XGBoost, Statsmodels  
+- Pandas, NumPy  
+- Matplotlib, Seaborn, Plotly  
+
+### 🔹 Tools & Platforms
+- Jupyter Notebook, Google Colab  
+- Excel, Markdown, Kaggle  
+- Git, GitHub  
+
+### 🔹 Development Environments
+- VS Code, PyCharm, Spyder, Anaconda Navigator  
+
+---
+
+## 🎓 Education
+
+- 🎓 **Bachelor of Computer Applications**  
+  *Kurukshetra University, Haryana*  
+  *2023 – 2026*
+
+- 🏫 **12th (Non-Medical)**  
+  *Jawahar Navodaya Vidyalaya, Kurukshetra*  
+  *2022 – 2023*
+
+---
+
+## 📢 Let's Connect
+ 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aryanupadhyay23/)  
+- 🐦 [Twitter / X](https://x.com/Aryanupadhyay23)  
+- 📬 [Email](mailto:aryanupadhyay2301@gmail.com)
+
+---
+
+## 🧠 What I’m Working On
+
+- 🏗 Building end-to-end ML projects  
+- ✍️ Writing Data Science blogs 
+- 📊 Creating a personal portfolio of data science use cases  
+- 🚀 Exploring Deep Learning, MLOps, and Agentic AI  
+- 🌐 Sharing it all on GitHub & [LinkedIn](https://www.linkedin.com/in/aryanupadhyay23/)
+
+---
+
+> 💬 *“Learning is not a phase, it’s a mindset. And GitHub is where my learning lives.”*
 
