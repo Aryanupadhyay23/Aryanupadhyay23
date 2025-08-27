@@ -10,7 +10,7 @@
 
 ---
 
-Hi, I’m **Aryan Upadhyay** — a self-taught machine learning enthusiast, blogger, and lifelong learner based in Kurukshetra, Haryana, India 📍.
+Hi, I’m **Aryan Upadhyay** — a self-taught machine learning enthusiast, blogger, and lifelong learner based in Haryana, India 📍.
 
 My journey into **data science** didn’t start in a classroom but with a spark of **curiosity** ✨. From late-night debugging sessions and diving into Kaggle notebooks to authoring over **50 technical blogs**, I’ve built my expertise through consistent self-study and a passion for solving problems.
 
