@@ -87,7 +87,7 @@ I am passionate about building intelligent systems that:
 
 ## 🚀 Featured Work
 
-- 📝 **[50+ Technical Blogs](https://aryanupadhyay.com/blogs)**: Simplifying complex Machine Learning concepts for everyone.
+- 📝 **[50+ Technical Blogs](https://aryanupadhyay.com/blog)**: Simplifying complex Machine Learning concepts for everyone.
 - 📊 **[Projects Showcase](https://aryanupadhyay.com/projects)**: Including real estate price predictors, analytics dashboards, and more.
 - 🌐 **[Personal Portfolio](https://aryanupadhyay.com)**: A central hub for all my work and articles.
 
