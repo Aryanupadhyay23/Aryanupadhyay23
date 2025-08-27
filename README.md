@@ -8,10 +8,6 @@
   <strong>🧠 Self-Taught ML Enthusiast &nbsp;•&nbsp; ✍️ Blogger &nbsp;•&nbsp; 💻 Aspiring Data Scientist</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanupadhyay23&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
-
 ---
 
 Hi, I’m **Aryan Upadhyay** — a self-taught machine learning enthusiast, blogger, and lifelong learner based in Kurukshetra, Haryana, India 📍.
