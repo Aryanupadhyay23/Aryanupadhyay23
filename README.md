@@ -5,31 +5,31 @@
 </p>
 
 <p align="center">
-  <strong>🧠 Self-Taught ML Enthusiast &nbsp;•&nbsp; ✍️ Blogger &nbsp;•&nbsp; 💻 Aspiring Data Scientist</strong>
+  <strong> Self-Taught ML Enthusiast &nbsp;•&nbsp;  Blogger &nbsp;•&nbsp;  Aspiring Data Scientist</strong>
 </p>
 
 ---
 
-Hi, I’m **Aryan Upadhyay** — a self-taught machine learning enthusiast, blogger, and lifelong learner based in Haryana, India 📍.
+Hi, I’m **Aryan Upadhyay** — a self-taught machine learning enthusiast, blogger, and lifelong learner based in Haryana, India .
 
-My journey into **data science** didn’t start in a classroom but with a spark of **curiosity** ✨. From late-night debugging sessions and diving into Kaggle notebooks to authoring over **50 technical blogs**, I’ve built my expertise through consistent self-study and a passion for solving problems.
+My journey into **data science** didn’t start in a classroom but with a spark of **curiosity** . From late-night debugging sessions and diving into Kaggle notebooks to authoring over **50 technical blogs**, I’ve built my expertise through consistent self-study and a passion for solving problems.
 
-📚 My goal is to make complex ML concepts accessible, which is why I share my learnings on my [personal website](https://aryanupadhyay.com), helping thousands of fellow learners worldwide 🌍.
+My goal is to make complex ML concepts accessible, which is why I share my learnings on my [personal website](https://aryanupadhyay.com), helping thousands of fellow learners worldwide .
 
 I am passionate about building intelligent systems that:
-- 📊 **Analyze data** to uncover hidden patterns
-- 🔮 **Predict future outcomes** with high accuracy
-- 🚀 **Tackle real-world challenges** through code
+-  **Analyze data** to uncover hidden patterns
+-  **Predict future outcomes** with high accuracy
+-  **Tackle real-world challenges** through code
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
-### 🤖 Machine Learning Expertise
+###  Machine Learning Expertise
 - **Core Concepts:** Supervised & Unsupervised Learning, Model Evaluation (Cross-validation, Confusion Matrix, Precision, Recall, F1 Score, ROC-AUC)
 - **Algorithms:** Linear & Logistic Regression, Decision Trees, Random Forest, SVM, KNN, Naive Bayes, XGBoost, K-Means, Hierarchical Clustering, DBSCAN, PCA
 
-### 💻 Languages, Libraries & Frameworks
+###  Languages, Libraries & Frameworks
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -57,7 +57,7 @@ I am passionate about building intelligent systems that:
   </a>
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
@@ -81,15 +81,15 @@ I am passionate about building intelligent systems that:
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
-- 📝 **[50+ Technical Blogs](https://aryanupadhyay.com/blog)**: Simplifying complex Machine Learning concepts for everyone.
-- 📊 **[Projects Showcase](https://aryanupadhyay.com/projects)**: Including real estate price predictors, analytics dashboards, and more.
-- 🌐 **[Personal Portfolio](https://aryanupadhyay.com)**: A central hub for all my work and articles.
+-  **[50+ Technical Blogs](https://aryanupadhyay.com/blog)**: Simplifying complex Machine Learning concepts for everyone.
+-  **[Projects Showcase](https://aryanupadhyay.com/projects)**: Including real estate price predictors, analytics dashboards, and more.
+-  **[Personal Portfolio](https://aryanupadhyay.com)**: A central hub for all my work and articles.
 
 ---
 
-## 📬 Let's Connect!
+##  Let's Connect!
 
 <p align="center">
   <a href="https://aryanupadhyay.com" target="_blank">
